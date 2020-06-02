@@ -1,5 +1,3 @@
 .DS_Store
 .sts4-cache/
 /target/
-!.mvn/wrapper/maven-wrapper.jar
-.mvn/*
