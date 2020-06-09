@@ -7,7 +7,7 @@ import org.springframework.web.bind.annotation.GetMapping;
 public class DemoController {
 
 	@GetMapping("/")
-		public String hello() {
-			return "hello world";
-		}
+	public String hello() {
+		return "hello world";
+	}
 }
